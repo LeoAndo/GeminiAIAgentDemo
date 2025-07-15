@@ -1,4 +1,4 @@
-Android StudioのGemini AI Agent　 Mode使ったコーディングサンプル
+Android StudioのGemini AI Agent Modeを使ったコーディングサンプル
 
 # Prompt Image & Text
 

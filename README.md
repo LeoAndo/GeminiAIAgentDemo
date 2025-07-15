@@ -3,6 +3,7 @@ Android StudioのGemini AI Agent　 Mode使ったコーディングサンプル
 # Prompt Image & Text
 
 <img src="./prompt_image.png" width=50% />
+
 ```
 [必須機能]
 1. リストアイテムクリック時にアイテムの詳細情報を表示する
